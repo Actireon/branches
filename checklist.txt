@@ -1,0 +1,8 @@
+1) Login - User is successfully logged in after specifying correct login/password combination and clicking on “Login” button
+[Status: Passed]
+
+2) Login - Fields highlight in red after clicking on “Login” button with blank fields
+[Status: Failed]
+
+3) Login - “Invalid login or password” error message displays after clicking on “Login” button with  incorrect login/password combination
+[Status: Passed]
