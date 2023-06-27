@@ -1,0 +1,13 @@
+1. На локальном репозитории сделать ветки для:
+- Postman
+- Jmeter
+- CheckLists
+- BugReports
+- SQL
+- Charles
+- MobileTesting
+
+git branch Postman Jmeter CheckLists BugReports SQL Charles MobileTesting
+
+2. Запушить все ветки на внешний репозиторий - git push --set-upstream origin Postman Jmeter CheckLists BugReports SQL Charles MobileTesting
+3. В ветке BugReports сделать текстовый документ со структурой баг репорта
